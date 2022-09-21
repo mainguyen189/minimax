@@ -1,0 +1,2 @@
+# minimax
+AI play game

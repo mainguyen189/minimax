@@ -1,2 +1,3 @@
 # minimax
-AI play game
+
+minimax applied in tic tac toe and connect four
